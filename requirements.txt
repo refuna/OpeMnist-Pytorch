@@ -1,0 +1,5 @@
+pytorch-lightning
+torchvision~=0.13.0
+matplotlib~=3.5.2
+torch~=1.12.0
+numpy~=1.23.1
